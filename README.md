@@ -1,4 +1,4 @@
-# 🧠 Automatic Habit Tracker (Hardware-Based)
+# 🧠 Automatic Habit Tracker 
 
 ## 📌 Overview
 The **Automatic Habit Tracker** is a dedicated hardware device designed to reduce friction in daily habit tracking. Instead of relying on apps, it provides a **simple, tactile interface** that allows users to log habits quickly and receive immediate visual feedback.
